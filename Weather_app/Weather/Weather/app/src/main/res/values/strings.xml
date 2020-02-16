@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_maps">Weather</string>
+    <string name="volgograd">Volgograd</string>
+    <string name="Погода">Погода</string>
+    <string name="САНЯ_ЖМИ">Саша, ЖМИ!</string>
+    <string name="test">Саша, жми смелее!</string>
+    <string name="fox">Лисичка, жми!</string>
+    <string name="pasha">Паша, жми смелее!</string>
+    <string name="ANDREEV">Андрей Евгеньевич, жмите!</string>
+</resources>
